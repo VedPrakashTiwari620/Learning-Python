@@ -9,7 +9,7 @@ Set Types: set, frozenset
 
 Boolean Type: bool
 
-Binary Types: bytes, bytearray, memoryview
+Binary Types: bytes, bytearray, memoryview 
 
 '''
 
